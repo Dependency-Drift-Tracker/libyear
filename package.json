@@ -1,5 +1,5 @@
 {
-  "name": "libyear",
+  "name": "@francois/libyear",
   "version": "0.8.0",
   "description": "A simple measure of software dependency freshness",
   "author": "Joshua David <@jdanil>",
@@ -8,13 +8,13 @@
     "Leon Miller-Out <@sbleon>"
   ],
   "license": "LGPL-3.0",
-  "homepage": "https://github.com/jdanil/libyear",
+  "homepage": "https://github.com/francois2metz/libyear",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdanil/libyear.git"
+    "url": "https://github.com/francois2metz/libyear.git"
   },
   "bugs": {
-    "url": "https://github.com/jdanil/libyear/issues"
+    "url": "https://github.com/francois2metz/libyear/issues"
   },
   "main": "./src",
   "exports": "./src/libyear.js",
